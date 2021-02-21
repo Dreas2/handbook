@@ -6,11 +6,11 @@ As a **purpose-driven organisation**, we believe the **outcomes** we create are 
 
 We want to positively impact the future of the country by using **technology** to improve **society**.
 
-We are already working with **brilliant public servants** to **modernise technology** and **accelerate digital delivery**. But we know we can do more to help those who share our vision.
+We are already working with **brilliant public servants** to **meet the needs of the UK's citizens with high performing projects** , ***modernise technology** and **accelerate digital delivery**. But we know we can do more to help those who share our vision.
 
 ## Our vision – what we want the future to look like
 
-We want to **empower** the public sector to deliver and continuously improve digital services that are user-centric, data-driven and freed from legacy technology.
+We want to **empower** the public sector to deliver and continuously improve digital services that are user-centric, data-driven and freed from legacy technology and processes.
 
 To achieve this, we help them to modernise working practices, accelerate digital delivery, drive better decisions through data and enable technology and delivery skills.
 
@@ -28,6 +28,6 @@ We empower public sector organisations by helping them to become digitally nativ
 
 **Customer focussed** – We can only succeed in our mission if we are a trustworthy partner to the public sector. Through empathy, flexibility and pragmatism we build strong and lasting relationships with our customers.
 
-**Drive to deliver** – We have a strong drive to deliver successful outcomes for our customers and their users, working hard to keep to our commitments, and rapidly delivering software that improves the lives of citizens.
+**Drive to deliver** – We have a strong drive to deliver successful outcomes for our customers and their users, working hard to keep to our commitments, and rapidly delivering projects that improves the lives of citizens.
 
 **Learning & mentoring** – We are passionate about learning and growth, whether it’s an improvement of one's self, the team or the organisation, we recognise the power of continuous improvement.
